@@ -1,0 +1,48 @@
+_repo: The-World-s-Greatest-Books---Volume-17---Poetry-and-Drama_44640
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44640-h/images/coverpage.jpg
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2014-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PN'
+- !lcsh 'Drama'
+tableOfContents: 'Goethe (Continued): Goetz von Berlichingen. Iphigenia in Tauris
+  -- Nicolai Gogol: The inspector-general -- Oliver Goldsmith: She stoops to conquer
+  -- Heinrich Heine: Atta Troll -- Homer: The Iliad. The Odyssey -- Horace: Poems
+  -- Victor Hugo: Hernani. Marion de Lorme. Ruy Blas. The king amuses himself. The
+  legend of the Alps -- Henrik Ibsen: The master builder. The pillars of society --
+  Ben Jonson: Every man in his humour -- Juvenal: Satires -- Friedrich Gottlieb Klopstock:
+  The Messiah -- Gotthold Ephraim Lessing: Nathan the Wise -- Longfellow: Evangeline.
+  Hiawatha -- Lucretius: On the nature of things -- James Macpherson: Ossian -- Christopher
+  Marlowe: Dr. Faustus -- Martial: Epigrams, epitaphs, and poems -- Philip Massinger:
+  A new way to pay old debts -- Milton: Paradise lost. Paradise regained. Samson Agonistes
+  -- Molière: The doctor in spite of himself.'
+title: The World's Greatest Books — Volume 17 — Poetry and Drama
+url: http://www.gutenberg.org/ebooks/44640
